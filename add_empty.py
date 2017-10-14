@@ -4,7 +4,7 @@ import bmesh
 
 bl_info = {
     "name": "Add Empty",
-    "category": "Edit > Special > Show Wire",
+    "category": "Edit > Add > Add Empty",
 }
 
 
